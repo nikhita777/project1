@@ -1,6 +1,7 @@
-package com.tns.program;
+package com.tns.program1;
 //program to demonstrate encapsulation in java
-public class Encapsulation {
+
+public class Encapsulation1 {
 //data members
 	public int serialno;
 	public String name;
